@@ -3,7 +3,7 @@ from time import sleep
 
 sense = SenseHat()
 
-#sense.show_message("Eat Ass. Suck a dick. Sell drugs.")
+#sense.show_message("Hello world")
 
 # r, g, b = 255,255, 255
 # sense.clear((r,g,b))
